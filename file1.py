@@ -1,5 +1,6 @@
 import random
 
 print('Hi!')
+textvar = 'lots of text'
 if random.random() < 0.7:
-    print('more stuff')
+    print(textvar)
